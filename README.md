@@ -6,7 +6,7 @@
 2. CSS
 3. JS
 4. React
-5. App 
+5. App  
 --- 
  
  
